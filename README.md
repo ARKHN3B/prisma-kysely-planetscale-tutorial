@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Supercharge Your Database: Make Prisma, Kysely, and PlanetScale Work Together
+
+## Find the tutorial
+Find the tutorial for this project here:
 
 ## Getting Started
 
