@@ -1,7 +1,7 @@
 # Supercharge Your Database: Make Prisma, Kysely, and PlanetScale Work Together
 
 ## Find the tutorial
-Find the tutorial for this project here:
+If you want to keep Prisma's great migration and schema declaration tool, while using a more suitable Type-safe ORM (Kysely) with real SQL joins, all while using a MySQL-compatible serverless database (PlanetScale), you can follow this [tutorial](https/medium.com/@benlmsc/).
 
 ## Getting Started
 
